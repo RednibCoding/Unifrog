@@ -7,7 +7,7 @@ Make sure [Neutralinojs](https://neutralino.js.org/) is installed
 npm install -g @neutralinojs/neu
 ```
 
-In the root of this project, run:
+Then, in the root of this project, run:
 ```bash
 neu run
 ```
