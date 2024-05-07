@@ -1,0 +1,338 @@
+{
+    "SF2000":[],
+    "8BitKing":[],
+    "SG800":[],
+    "SF900":[],
+    "GB300": [
+        {
+            "name": "appvc.ikb",
+            "format": "BGRA8888",
+            "width": 150,
+            "height": 214
+        },
+        {
+            "name": "bfrjd.odb",
+            "format": "RGB565",
+            "width": 640,
+            "height": 280
+        },
+        {
+            "name": "bisrv.nec",
+            "format": "RGB565",
+            "width": 640,
+            "height": 480
+        },
+        {
+            "name": "bttlve.kbp",
+            "format": "BGRA8888",
+            "width": 60,
+            "height": 144
+        },
+        {
+            "name": "bxvtb.sby",
+            "format": "BGRA8888",
+            "width": 192,
+            "height": 224
+        },
+        {
+            "name": "c1eac.pal",
+            "format": "BGRA8888",
+            "width": 26,
+            "height": 22
+        },
+        {
+            "name": "d2d1.hgp",
+            "format": "RGB565",
+            "width": 640,
+            "height": 480
+        },
+        {
+            "name": "dism.cef",
+            "format": "RGB565",
+            "width": 640,
+            "height": 480
+        },
+        {
+            "name": "dpskc.ctp",
+            "format": "RGB565",
+            "width": 384,
+            "height": 320
+        },
+        {
+            "name": "drivr.ers",
+            "format": "BGRA8888",
+            "width": 152,
+            "height": 160
+        },
+        {
+            "name": "dsuei.cpl",
+            "format": "BGRA8888",
+            "width": 152,
+            "height": 160
+        },
+        {
+            "name": "dufdr.cwr",
+            "format": "BGRA8888",
+            "width": 240,
+            "height": 168
+        },
+        {
+            "name": "dxva2.nec",
+            "format": "RGB565",
+            "width": 640,
+            "height": 288
+        },
+        {
+            "name": "ectte.bke",
+            "format": "BGRA8888",
+            "width": 1200,
+            "height": 120
+        },
+        {
+            "name": "eknjo.ofd",
+            "format": "RGB565",
+            "width": 640,
+            "height": 280
+        },
+        {
+            "name": "exaxz.hsp",
+            "format": "BGRA8888",
+            "width": 448,
+            "height": 768
+        },
+        {
+            "name": "fhshl.skb",
+            "format": "RGB565",
+            "width": 640,
+            "height": 280
+        },
+        {
+            "name": "fixas.ctp",
+            "format": "BGRA8888",
+            "width": 152,
+            "height": 160
+        },
+        {
+            "name": "gpapi.bvs",
+            "format": "RGB565",
+            "width": 640,
+            "height": 480
+        },
+        {
+            "name": "hctml.ers",
+            "format": "RGB565",
+            "width": 320,
+            "height": 2256
+        },
+        {
+            "name": "hlink.bvs",
+            "format": "RGB565",
+            "width": 640,
+            "height": 288
+        },
+        {
+            "name": "icuin.cpl",
+            "format": "BGRA8888",
+            "width": 152,
+            "height": 160
+        },
+        {
+            "name": "igc64.dll",
+            "format": "BGRA8888",
+            "width": 217,
+            "height": 37
+        },
+        {
+            "name": "irftp.ctp",
+            "format": "BGRA8888",
+            "width": 152,
+            "height": 160
+        },
+        {
+            "name": "jccatm.kbp",
+            "format": "RGB565",
+            "width": 640,
+            "height": 480
+        },
+        {
+            "name": "jsnno.uby",
+            "format": "BGRA8888",
+            "width": 240,
+            "height": 168
+        },
+        {
+            "name": "kmbcj.acp",
+            "format": "BGRA8888",
+            "width": 288,
+            "height": 448
+        },
+        {
+            "name": "lf9lb.cut",
+            "format": "RGB565",
+            "width": 640,
+            "height": 280
+        },
+        {
+            "name": "lk7tc.bvs",
+            "format": "BGRA8888",
+            "width": 52,
+            "height": 192
+        },
+        {
+            "name": "mczwq.ikb",
+            "format": "RGB565",
+            "width": 640,
+            "height": 336
+        },
+        {
+            "name": "mhg4s.ihg",
+            "format": "RGB565",
+            "width": 400,
+            "height": 192
+        },
+        {
+            "name": "mksh.rcv",
+            "format": "RGB565",
+            "width": 640,
+            "height": 288
+        },
+        {
+            "name": "ntrcq.oba",
+            "format": "BGRA8888",
+            "width": 240,
+            "height": 168
+        },
+        {
+            "name": "nvinf.hsp",
+            "format": "BGRA8888",
+            "width": 1200,
+            "height": 120
+        },
+        {
+            "name": "okcg2.old",
+            "format": "BGRA8888",
+            "width": 24,
+            "height": 24
+        },
+        {
+            "name": "ouenj.dut",
+            "format": "BGRA8888",
+            "width": 240,
+            "height": 168
+        },
+        {
+            "name": "pwsso.occ",
+            "format": "RGB565",
+            "width": 640,
+            "height": 480
+        },
+        {
+            "name": "qasfc.bel",
+            "format": "BGRA8888",
+            "width": 328,
+            "height": 224
+        },
+        {
+            "name": "qdbec.ofd",
+            "format": "BGRA8888",
+            "width": 240,
+            "height": 168
+        },
+        {
+            "name": "qwave.bke",
+            "format": "BGRA8888",
+            "width": 152,
+            "height": 160
+        },
+        {
+            "name": "sdclt.occ",
+            "format": "BGRA8888",
+            "width": 424,
+            "height": 58
+        },
+        {
+            "name": "sfcdr.cpl",
+            "format": "RGB565",
+            "width": 640,
+            "height": 480
+        },
+        {
+            "name": "sgotd.cwt",
+            "format": "RGB565",
+            "width": 640,
+            "height": 280
+        },
+        {
+            "name": "snbqj.uby",
+            "format": "RGB565",
+            "width": 640,
+            "height": 280
+        },
+        {
+            "name": "t2act.sgf",
+            "format": "RGB565",
+            "width": 640,
+            "height": 280
+        },
+        {
+            "name": "tvctu.uby",
+            "format": "RGB565",
+            "width": 640,
+            "height": 280
+        },
+        {
+            "name": "ucby4.aax",
+            "format": "BGRA8888",
+            "width": 448,
+            "height": 224
+        },
+        {
+            "name": "urlkp.bvs",
+            "format": "BGRA8888",
+            "width": 328,
+            "height": 224
+        },
+        {
+            "name": "vdaz5.bjk",
+            "format": "RGB565",
+            "width": 640,
+            "height": 280
+        },
+        {
+            "name": "wshrm.nec",
+            "format": "BGRA8888",
+            "width": 217,
+            "height": 37
+        },
+        {
+            "name": "wtrxj.lbd",
+            "format": "BGRA8888",
+            "width": 192,
+            "height": 224
+        },
+        {
+            "name": "xajkg.hsp",
+            "format": "BGRA8888",
+            "width": 152,
+            "height": 160
+        },
+        {
+            "name": "xjebd.clq",
+            "format": "BGRA8888",
+            "width": 448,
+            "height": 224
+        },
+        {
+            "name": "zaqrc.olc",
+            "format": "BGRA8888",
+            "width": 8,
+            "height": 224
+        },
+        {
+            "name": "ztrba.nec",
+            "format": "RGB565",
+            "width": 64,
+            "height": 320
+        }
+    ] 
+}

@@ -1,0 +1,31 @@
+{
+  "applicationId": "js.neutralino.zero",
+  "version": "1.0.0",
+  "defaultMode": "window",
+  "documentRoot": "/www/",
+  "url": "/",
+  "enableServer": true,
+  "enableNativeAPI": true,
+  "nativeAllowList": [
+    "app.*"
+  ],
+  "modes": {
+    "window": {
+      "title": "Unifrog",
+      "width": 800,
+      "height": 500,
+      "minWidth": 400,
+      "minHeight": 200,
+      "icon": "/www/icon.png",
+      "enableInspector": true
+    }
+  },
+  "cli": {
+    "binaryName": "Unifrog",
+    "resourcesPath": "/www/",
+    "extensionsPath": "/extensions/",
+    "clientLibrary": "/www/js/neutralino.js",
+    "binaryVersion": "5.1.0",
+    "clientVersion": "5.1.0"
+  }
+}
