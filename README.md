@@ -1,6 +1,7 @@
-# neutralinojs-zero
-An empty Neutralinojs app, extend as you wish
+# Unifrog
 
-```
-neu create myapp --template neutralinojs/neutralinojs-zero
+## How to run
+In the root of this project, run:
+```bash
+neu run
 ```
